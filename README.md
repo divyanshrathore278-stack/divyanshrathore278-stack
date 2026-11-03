@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Divyansh Rathore</h1>
 
-<!--
-**divyanshrathore278-stack/divyanshrathore278-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Data Scientist | AI & Data Science Undergraduate
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about Data Science, Machine Learning, 
+  Artificial Intelligence and turning data into meaningful insights.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech undergraduate in Artificial Intelligence & Data Science.
+- 📍 Based in Indore, India.
+- 🐍 Interested in Python and Data Science.
+- 📊 Exploring Data Analytics and Machine Learning.
+- 🤖 Building real-world projects using AI and Data Science.
+- 🚀 Always learning, experimenting and improving.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, C, C++, SQL
+- **Data Analytics:** Power BI, Excel
+- **Areas of Interest:** Data Science, AI, Machine Learning
+
+---
+
+## 🎯 My Goals
+
+- Build impactful Data Science projects.
+- Improve my Machine Learning skills.
+- Develop real-world AI applications.
+- Contribute to open-source projects.
+
+---
+
+<h3 align="center">Let's Connect and Build Something Amazing! 🚀</h3>
