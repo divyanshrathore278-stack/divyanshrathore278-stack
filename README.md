@@ -32,15 +32,6 @@ Aspiring Data Scientist | AI & Data Science Undergraduate
 
 ---
 
-## 🎯 My Goals
-
-* Build impactful Data Science projects.
-* Improve my Machine Learning skills.
-* Develop real-world AI applications.
-* Contribute to open-source projects.
-
----
-
 <h3 align="center">Let's Connect and Build Something Amazing! 🚀</h3>
 
 
